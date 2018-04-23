@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.1.107/RuiKlasse.ipa</string>
+					<string>https://59.110.141.87:443/app_update/RuiKe.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/zhangying0515/RuiKe/blob/master/ruike57.png</string>
+					<string>https://59.110.141.87:443/app_update/installimages/ruike57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/zhangying0515/RuiKe/blob/master/ruike512.png</string>
+					<string>https://59.110.141.87:443/app_update/installimages/ruike512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
